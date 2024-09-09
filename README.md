@@ -19,10 +19,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 -**QR code component solution: Desktop design**
-![](./design/desktop-design)
+![](./design/desktop-design.jpg)
 
 -**QR code component solution: Mobile design**
-![](./design/mobile-design)
+![](./design/mobile-design.jpg)
 
 ### Links
 
