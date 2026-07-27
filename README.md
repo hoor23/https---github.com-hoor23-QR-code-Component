@@ -28,8 +28,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://github.com/hoor23/https---github.com-hoor23-QR-code-Component.git](https://github.com/hoor23/https---github.com-hoor23-QR-code-Component.git)
-- Live Site URL: [https://hoor23.github.io/https---github.com-hoor23-QR-code-Component/](https://hoor23.github.io/https---github.com-hoor23-QR-code-Component/)
+- Solution URL: [https://github.com/HooriaSaeeda/QR-code-Component.git](https://github.com/HooriaSaeeda/QR-code-Component.git)
+- Live Site URL: [https://hooriasaeeda.github.io/QR-code-Component/](https://hooriasaeeda.github.io/QR-code-Component/)
 
 ## My process
 
@@ -71,9 +71,9 @@ In future projects, I would like to:
 
 ## Author
 
-- Frontend Mentor - [hoor23](https://www.frontendmentor.io/profile/hoor23)
-- Github - [hoor23](https://github.com/hoor23)
-- LinkedIn - [Hoor Seyda](www.linkedin.com/in/hoor-seyda-901176222)
+- Github - [HooriaSaeeda](https://github.com/HooriaSaeeda)
+- Frontend Mentor - [HooriaSaeeda](https://www.frontendmentor.io/profile/HooriaSaeeda)
+- Linkedin - [Hoor Seyda](linkedin.com/in/hoor-seyda-901176222)
 
 ## Acknowledgments
 
